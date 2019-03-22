@@ -18,7 +18,7 @@ set t_Co=256
 "colorscheme gruvbox
 "colorscheme molokai
 "colorscheme 256_jungle
-colorscheme 256_grayvim
+colorscheme 256-grayvim
 "colorscheme ir_black
 
 " Tabs
