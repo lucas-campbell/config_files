@@ -11,11 +11,15 @@ autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in
 " mapping
 map <C-n> :NERDTreeToggle<CR>
 
-" Gruvbox
+" Colors
 set t_Co=256
-set background=dark
+"set background=dark
 "set background=light
-colorscheme gruvbox
+"colorscheme gruvbox
+"colorscheme molokai
+"colorscheme 256_jungle
+colorscheme 256_grayvim
+"colorscheme ir_black
 
 " Tabs
 set expandtab
