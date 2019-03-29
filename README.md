@@ -3,7 +3,7 @@ Remote tracking for .vimrc and plugins used
 
 ## Installing in new environment
 - clone repo into ~/.vim/
-- run this to create symbloc link, then clone plugins from their respective repos:
+- run this to create symbloc link and clone plugins from their respective repos:
 ```
 ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
