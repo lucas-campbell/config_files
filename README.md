@@ -12,7 +12,7 @@ git submodule update --init
 ^this last command is the same as 'git submodule init', followed by 'git submodule update'
 
 ## Updating Vim plugins
-- to update a plugin, go to its directory and run 'git pull origin master'. Or, to do all at once from the .vim directory:
+- To update a plugin, go to its directory and run 'git pull origin master'. Or, to do all at once from the .vim directory:
 ```
 git submodule foreach git pull origin master
 ```
