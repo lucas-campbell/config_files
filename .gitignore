@@ -1,2 +1,4 @@
-# Vim history file
+# Vim
+*.swp
+*~
 .netrwhist
