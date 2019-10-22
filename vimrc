@@ -28,7 +28,7 @@ set expandtab
 set shiftwidth=4
 set softtabstop=4
 set autoindent
-set smartindent
+set cindent
 
 "Etc
 syntax on
@@ -68,3 +68,5 @@ set t_vb=
 "Mouse
 set mouse=a
 
+"for Lightline
+set laststatus=2
