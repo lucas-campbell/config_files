@@ -13,10 +13,10 @@ map <C-n> :NERDTreeToggle<CR>
 
 " Colors
 set t_Co=256
-"set background=dark
+set background=dark
 "set background=light
-"colorscheme gruvbox
-colorscheme molokai
+colorscheme gruvbox
+"colorscheme molokai
 "colorscheme 256_jungle
 "colorscheme 256-grayvim
 "colorscheme molokai
