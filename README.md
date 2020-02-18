@@ -2,14 +2,17 @@
 Remote tracking for .vimrc and plugins used
 
 ## Installing in new environment
-- clone repo into ~/.vim/
-- run this to create symbloc link and clone plugins from their respective repos:
+- clone repo into .vim directory :
+```
+git clone <repo> ~/.vim/
+```
+- run the following to create symbloc link and clone plugins from their respective repos:
 ```
 ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
 git submodule update --init
 ```
-^this last command is the same as 'git submodule init', followed by 'git submodule update'
+^last command is the same as 'git submodule init' followed by 'git submodule update'
 
 ## Updating Vim plugins
 - To update a plugin, go to its directory and run 'git pull origin master'. Or, to do all at once from the .vim directory:
