@@ -2,9 +2,9 @@
 Remote tracking for .vimrc and plugins used
 
 ## Installing in new environment
-- clone repo into .vim directory :
+- clone repo into .vim directory:
 ```
-git clone <repo> ~/.vim/
+git clone git@github.com:lucas-campbell/config_files.git ~/.vim/
 ```
 - run the following to create symbloc link and clone plugins from their respective repos:
 ```
