@@ -1,10 +1,16 @@
 # config_files
-Repo for .vimrc and plugins I use. If you've come across this while browsing, feel free to use anything here. I have a few convenient plugins/colorschemes pre-installed (using pathogen), with some go-to colorschemes commented out in the .vimrc for easy access. 
+Repo for .vimrc and plugins I use. If you've come across this while browsing, feel free to use anything here. I have a few convenient plugins/colorschemes pre-installed (using pathogen), with some go-to colorschemes commented out in the .vimrc for easy access.
+
 Vim Plugins: 
+
 gruvbox -- dark is the best colorscheme I've found to date 
+
 lightline -- better statusline indicator for vim 
+
 nerdtree -- file system explorer for Vim, can't live without it 
+
 setcolors -- switch colorschemes with keyboard shortcuts 
+
 vim-colorschemes -- more colors! 
 
 ## Installing in new environment
