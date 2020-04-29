@@ -12,6 +12,8 @@ setcolors -- switch colorschemes with keyboard shortcuts
 
 vim-colorschemes -- more colors! 
 
+syntastic -- support for in-vim linting, cya l8r VScode
+
 ## Installing in new environment
 - clone repo into .vim directory:
 ```
