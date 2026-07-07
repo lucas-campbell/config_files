@@ -31,8 +31,8 @@ set autoindent
 set cindent
 
 "Etc
-syntax on
 filetype plugin indent on
+syntax on
 
 " Search
 set hlsearch
